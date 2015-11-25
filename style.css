@@ -1,0 +1,57 @@
+#font_1 {
+background-image: url("http://tremendouswallpapers.com/wp-content/uploads/2014/12/glivb-desktop-58044568-1920x1080.jpg");
+color: white;
+}
+
+#font_2 {
+background-image: url("http://tremendouswallpapers.com/wp-content/uploads/2014/12/glivb-desktop-58044568-1920x1080.jpg");
+color: white;
+}
+
+#titre {
+text-align: center;
+text-decoration: underline;
+ 
+}
+
+#image_homme {
+ float: left;
+ margin-top: 40px;
+ margin-left: 80px;
+ position: relative;
+border:double black;
+}
+ 
+#image_femme { 
+ float: right;
+ margin-top: 40px;
+ margin-right: 100px;
+ position: relative;
+border:double black; 
+}
+
+#titre {
+
+ text-align: center;
+font-family:Verdana;
+
+}
+
+#contenue_2, #contenue {
+
+ font-weight: bold;
+ margin-top: 120px;
+}
+
+#video {
+
+ float: center;
+ margin-top: 40px;
+ 
+}
+
+body{
+  margin: 0 auto;
+  width:600px;
+  text-align: center;
+
